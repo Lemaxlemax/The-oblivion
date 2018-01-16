@@ -1,17 +1,21 @@
 # 感谢你下载该游戏
+很荣幸能够为各位带来一款完成的游戏，这款解谜游戏内有一些惊悚元素，请调节好心态游玩，谢谢。
 
-You can use the [editor on GitHub](https://github.com/Lemaxlemax/Intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 基本资料
 
-## Markdown
-
-| 水果        | 价格    |
+| 属性        | 信息    |
 | --------   | :-----:  |
-| 香蕉        | $1      |
-| 苹果        | $1      |
-| 草莓        | $1      |
+| 游戏名        | The oblivion      |
+| 中文名        | 遗忘      |
+| 作者        | Lemax      |
+| 类型    | 解谜RPG |
+| 语言             | 简体中文  |
+| 当前版本       | Ver 1.1.2         |
+| 游戏引擎       | RPG Maker VX Ace   |
+| 运行系统       | Windows    |
 
 
-作者：Gaolex 个人网页：http://lemax-official.lofter.com/
+作者：Lemax 个人网页：http://lemax-official.lofter.com/
 
 來源：游戏官网：http://theoblivionlemax.lofter.com/
 
@@ -41,4 +45,3 @@ You can use the [editor on GitHub](https://github.com/Lemaxlemax/Intro/edit/mast
 更多资料详情游戏官网。
 
 该文本著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
